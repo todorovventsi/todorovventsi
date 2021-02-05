@@ -3,6 +3,7 @@
     <style>
     h1 {
       fontsize: 36px;
+      color: blue;
     }
     </style>
   </head>
