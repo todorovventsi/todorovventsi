@@ -1,14 +1,5 @@
-<html>
-  <head>
-    <style>
-    h1 {
-      fontsize: 36px;
-      color: blue;
-    }
-    </style>
-  </head>
   <body>
-    <h1>Profile Description Test </h1>
+    <h1 style="color: blue; font-size: 36px;">Profile Description Test </h1>
   </body>
 </html>
 
