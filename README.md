@@ -2,7 +2,7 @@
   <head>
     <style>
     h1 {
-      fontsize: 36
+      fontsize: 36px;
     }
     </style>
   </head>
